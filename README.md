@@ -41,6 +41,19 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/ja-jp)
 
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,aws,docker,vercel,git,github,gitlab,eclipse,firebase,gradle,linux,selenium,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.co.jp/)
+[![My Skills](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
+[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://mergedoc.osdn.jp/)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
 
 [Click here for skill icons.](https://skillicons.dev/)

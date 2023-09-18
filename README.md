@@ -27,7 +27,13 @@
 [![My Skills](https://skillicons.dev/icons?i=jquery)](http://api.jquery.com/)
 
 ### Backend Development
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,graphql,apollo,spring,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
+[![My Skills](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
+[![My Skills](https://skillicons.dev/icons?i=apollo)](https://new.apollographql.com/)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://spring.io/)
+[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://learn.microsoft.com/en-us/dotnet/framework/)
 
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)

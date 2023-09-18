@@ -24,3 +24,5 @@
 
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,aws,docker,vercel,git,github,gitlab,eclipse,firebase,gradle,linux,selenium,visualstudio)](https://skillicons.dev)
+
+[Click here for skill icons.](https://skillicons.dev/)

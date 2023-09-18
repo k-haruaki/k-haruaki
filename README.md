@@ -14,7 +14,17 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170)
 
 ### Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,materialui,html,css,bootstrap,sass,redux,webpack,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+[![My Skills](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
+[![My Skills](https://skillicons.dev/icons?i=jquery)](http://api.jquery.com/)
 
 ### Backend Development
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,graphql,apollo,spring,dotnet)](https://skillicons.dev)

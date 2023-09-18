@@ -36,7 +36,9 @@
 [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://learn.microsoft.com/en-us/dotnet/framework/)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/ja-jp)
 
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,aws,docker,vercel,git,github,gitlab,eclipse,firebase,gradle,linux,selenium,visualstudio)](https://skillicons.dev)

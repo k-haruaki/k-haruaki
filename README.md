@@ -1,9 +1,4 @@
 # Hi there 👋
-<p align="left">
-  <a href="https://github.com/k-haruaki/k-haruaki/">
-    <img src="https://komarev.com/ghpvc/?username=k-haruaki" alt="k-haruaki" />
-  </a>
-</p>
 
 ## Profile
 - 💻 I'm currently front-end engineer.

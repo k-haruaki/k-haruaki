@@ -15,6 +15,8 @@
 
 ### Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://ja.vitejs.dev/)
+[![My Skills](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
@@ -44,10 +46,11 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://www.notion.so/product)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.co.jp/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.co.jp/)
 [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://mergedoc.osdn.jp/)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)

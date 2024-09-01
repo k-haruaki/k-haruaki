@@ -14,8 +14,8 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170)
 
 ### Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage/)
@@ -28,16 +28,16 @@
 
 ### Backend Development
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![My Skills](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
 [![My Skills](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
 [![My Skills](https://skillicons.dev/icons?i=apollo)](https://new.apollographql.com/)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://learn.microsoft.com/en-us/dotnet/framework/)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/ja-jp)
 
 ### Other
